@@ -5,6 +5,7 @@ __author__ = 'Michael Liao'
 
 '''
 Default configurations.
+test github desktop
 '''
 
 configs = {
